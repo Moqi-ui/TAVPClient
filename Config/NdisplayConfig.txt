@@ -1,0 +1,1 @@
+ -game -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless -StageFriendlyName=Node_0 -dc_cfg=\"D:/00_Mrcao/08_Test/W/Render_2node.ndisplay\" -dx12 -dc_dev_mono -windowed -forceres WinX=0 WinY=0 ResX=1920 ResY=1080 -dc_node=Node_0 Log=Node_0.log;

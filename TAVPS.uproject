@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C6BE3CE1-422F-DA2C-D5A7-038734AEA876}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TAVPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	]
+}
